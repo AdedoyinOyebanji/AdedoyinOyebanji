@@ -7,11 +7,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Adedoyin Oyebanji</h1>
-<h3 align="center">I am a passionate Data Analyst who likes to explore data to reveal what was overlooked.</h3>
 
 
 
-[Adedoyin Oyebanji](https://www.linkedin.com/in/adedoyinoyebanji/) is an enthusiastic  Data Analyst with a passion for leveraging data to drive research and innovation, particularly interested in leveraging big data analytics to solve complex problems and uncover actionable insights.
+[Adedoyin Oyebanji](https://www.linkedin.com/in/adedoyinoyebanji/) She is a passionate Data Analyst who enjoys uncovering hidden patterns in data. With a strong interest in research and innovation, she leverages tools like Excel, Power BI, SQL, and Python to solve complex problems and extract meaningful insights.
 
 - 🔭 I’m currently working on **projects using Excel, PowerBI, SQL and Python**
 
