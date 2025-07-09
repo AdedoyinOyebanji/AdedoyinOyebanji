@@ -10,7 +10,7 @@
 
 
 
-[Adedoyin Oyebanji](https://www.linkedin.com/in/adedoyinoyebanji/) She is a passionate Data Analyst who enjoys uncovering hidden patterns in data. With a strong interest in research and innovation, she leverages tools like Excel, Power BI, SQL, and Python to solve complex problems and extract meaningful insights.
+[Adedoyin Oyebanji](https://www.linkedin.com/in/adedoyinoyebanji/) is a passionate Data Analyst who enjoys uncovering hidden patterns in data. With a strong interest in research and innovation, she leverages tools like Excel, Power BI, SQL, and Python to solve complex problems and extract meaningful insights.
 
 - 🔭 I’m currently working on **projects using Excel, PowerBI, SQL and Python**
 
